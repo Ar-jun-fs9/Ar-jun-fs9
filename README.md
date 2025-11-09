@@ -15,9 +15,9 @@
 
 ### 🧠 About Me
 <p align="justify">
-💼 Currently: Exploring AI in depth at <b>Chai</b> <br/>
-🎯 Goal: Become an <b>AI Engineer</b> building real-world intelligent systems <br/>
-⚙️ Passion: <b>Frontend × Backend × AI</b> <br/>
+💼 Currently: Exploring AI in depth  <br/>
+🚀 Focus: Building real-world intelligent systems  <br/>
+⚙️ Specialization: <b>Artificial Intelligence × Full-Stack Development</b> <br/>
 🌱 Learning: LLMs, Vector DBs, RAG, Generative AI, Reinforcement Learning
 </p>
 
@@ -57,7 +57,6 @@
 <img src="https://img.shields.io/badge/FAISS-20232A?logoColor=white"/>
 <img src="https://img.shields.io/badge/Weaviate-2B7CF7?logoColor=white"/>
 </div>
-
 <div align="center">
 <!-- Familiar / Secondary Tech -->
 <p><b>⚙️ Familiar Tech</b></p>
@@ -79,14 +78,14 @@
 
 ---
 
-### 🧩 Currently Exploring
-🧠 LLMs • RAG • LangChain • Vector Databases • Prompt Engineering  
-🎨 Generative AI (Stable Diffusion / Midjourney APIs)  
-⚡ Reinforcement Learning (Gymnasium / RLlib)
+### 🧩 Currently Diving depth Into
+💡 **Large Language Models (LLMs) & RAG** • LangChain • Vector Databases • Advanced Prompt Engineering  
+🎨 **Generative AI** – Stable Diffusion / MidJourney APIs  
+⚡ **Reinforcement Learning** – Gymnasium / RLlib for building intelligent agents
 
 ---
 
-### ⚡ AI Engineer in Action
+### ⚡ Grind
 <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg1MXl5NWp1YWEzdzg0eXRzNndrOHRsb295bTM3eGRkcTlmODZlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="500px" alt="AI Engineer Coding Animation"/>
 </p>
