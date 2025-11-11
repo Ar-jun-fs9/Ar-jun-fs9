@@ -113,8 +113,8 @@
 ### 🌐 Connect With Me
 <p align="center">
 <a href="https://github.com/Ar-jun-fs9"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/arjun-bhul-37656b398?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJUmmPKdQRRWvlDK%2FtAN6VQ%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="https://ar-jun-fs9.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
