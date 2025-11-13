@@ -56,6 +56,8 @@
 <img src="https://img.shields.io/badge/Pinecone-0055FF?logoColor=white"/>
 <img src="https://img.shields.io/badge/FAISS-20232A?logoColor=white"/>
 <img src="https://img.shields.io/badge/Weaviate-2B7CF7?logoColor=white"/>
+<img src="https://img.shields.io/badge/Chroma-9932CC?logoColor=white"/>
+
 </div>
 <div align="center">
 <!-- Familiar / Secondary Tech -->
