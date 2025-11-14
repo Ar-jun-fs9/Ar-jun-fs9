@@ -59,6 +59,15 @@
 <img src="https://img.shields.io/badge/Chroma-9932CC?logoColor=white"/>
 
 </div>
+
+<div align="center">
+<p><b>🐳 DevOps & Deployment Tech</b></p>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+</div>
+
 <div align="center">
 <!-- Familiar / Secondary Tech -->
 <p><b>⚙️ Familiar Tech</b></p>
