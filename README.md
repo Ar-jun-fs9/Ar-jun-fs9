@@ -15,10 +15,7 @@
 
 ### 🧠 About Me
 <p align="justify">
-💼 Currently: Exploring AI in depth  <br/>
-🚀 Focus: Building real-world intelligent systems  <br/>
-⚙️ Specialization: <b>Artificial Intelligence × Full-Stack Development</b> <br/>
-🌱 Learning: LLMs, Vector DBs, RAG, Generative AI, Reinforcement Learning
+I’m exploring Artificial Intelligence in depth and focusing on building real-world intelligent systems. My work combines AI with full-stack development, and I’m currently diving deep into Large Language Models (LLMs), RAG pipelines, vector databases, and advanced prompt engineering. I’m also learning how generative AI can be applied to create useful and intelligent applications.
 </p>
 
 ---
@@ -92,8 +89,7 @@
 
 ### 🧩 Currently Diving depth Into
 💡 **Large Language Models (LLMs) & RAG** • LangChain • Vector Databases • Advanced Prompt Engineering  
-🎨 **Generative AI** – Stable Diffusion / MidJourney APIs  
-⚡ **Reinforcement Learning** – Gymnasium / RLlib for building intelligent agents
+🎨 **Generative AI** – exploring AI tools and applications to create intelligent solutions  
 
 ---
 
