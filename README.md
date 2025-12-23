@@ -1,5 +1,4 @@
 <!-- ============================= CYBER HEADER ============================= -->
-
 <!-- Animated Welcome Sticker -->
 <p align="center">
   <img src="https://media1.tenor.com/m/-cQZWvLAvgMAAAAC/hi-hello-there.gif" width="350" alt="Waving Hand Welcome"/>
@@ -121,12 +120,14 @@ I’m exploring Artificial Intelligence in depth and focusing on building real-w
   </tr>
 </table>
 
+### 📈 My GitHub Contributions
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar-jun-fs9&theme=react-dark&area=true&hide_border=false&stroke=05F0FF&custom_title=GitHub+Live+Activity+Graph" width="700"/>
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar-jun-fs9&theme=react-dark&area=true&hide_border=false&stroke=05F0FF&custom_title=Ar-jun-fs9's+Contribution+Graph" width="900"/>
+
 </div>
-
-
-
 ---
 
 ### 🌐 Connect With Me
