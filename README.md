@@ -105,16 +105,27 @@ I’m exploring Artificial Intelligence in depth and focusing on building real-w
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ar-jun-fs9&show_icons=true&theme=radical" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ar-jun-fs9&theme=radical" height="160px"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-jun-fs9&layout=compact&theme=radical" height="150px"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ar-jun-fs9&show_icons=true&theme=radical" height="160px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ar-jun-fs9&theme=radical" height="160px"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-jun-fs9&layout=compact&theme=radical" height="150px"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar-jun-fs9&theme=react-dark&area=false&hide_border=true&stroke=05F0FF&custom_title=GitHub+Pulse+Graph" width="700"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar-jun-fs9&theme=react-dark&area=true&hide_border=false&stroke=05F0FF&custom_title=GitHub+Live+Activity+Graph" width="700"/>
+</div>
+
+
 
 ---
 
