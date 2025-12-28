@@ -103,23 +103,6 @@ I’m exploring Artificial Intelligence in depth and focusing on building real-w
 
 ---
 
-### 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ar-jun-fs9&show_icons=true&theme=radical" height="160px"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ar-jun-fs9&theme=radical" height="160px"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ar-jun-fs9&layout=compact&theme=radical" height="150px"/>
-    </td>
-  </tr>
-</table>
-
 ### 📈 My GitHub Contributions
 
 <div align="center">
