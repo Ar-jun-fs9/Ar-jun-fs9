@@ -73,7 +73,7 @@
       <br>XGBoost
     </td>
     <td align="center">
-      <img src="https://static.cdnlogo.com/logos/l/26/lightgbm.svg" width="90"/>
+      <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_black_text.svg" width="90"/>
       <br>LightGBM
     </td>
     <td align="center">
