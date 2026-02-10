@@ -69,7 +69,7 @@
       <br>Docker
     </td>
     <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/XGBoost_logo.svg" width="90"/>
+      <img src="https://icons.veryicon.com/png/o/education-technology/artificial-intelligence-algorithm/xgboost.png" width="90"/>
       <br>XGBoost
     </td>
     <td align="center">
@@ -77,7 +77,7 @@
       <br>LightGBM
     </td>
     <td align="center">
-      <img src="https://devicons.github.io/devicon/devicon/icons/opencv/opencv-original.svg" width="90"/>
+      <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" width="90"/>
       <br>OpenCV
     </td>
     <td align="center">
