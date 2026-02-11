@@ -263,13 +263,13 @@ I’m actively seeking opportunities where I can **learn, contribute, and improv
 
 ## 📚 Currently Going Deep Into
 
-- 🤖 **Large Language Models (LLMs)** — architecture, fine-tuning & evaluation
-- 📚 **Retrieval-Augmented Generation (RAG) Pipelines** — vector search, embeddings & knowledge grounding
-- 🤝 **AI Agents & Tool-Using Models** — autonomous workflows & decision systems
-- 📝 **Prompt Engineering & Evaluation** — reliability, safety & performance tuning
-- 🌐 **Full-Stack Development** — building AI-powered web apps (Frontend + Backend integration)
-- ☁️ **Scalable AI Deployment** — cloud-native, containerized & production-ready systems
-- 🛡 **AI Safety & Responsible AI** — ethical, secure & trustworthy AI systems
+- 🤖 **Large Language Models (LLMs)** — how they work, how to improve them, and how to test them  
+- 📚 **RAG Pipelines** — retrieving the right data and generating accurate answers  
+- 🤝 **AI Agents** — AI systems that use tools and complete tasks automatically  
+- 📝 **Prompt Engineering** — writing better prompts and improving output quality  
+- 🌐 **Full-Stack Development** — building complete AI-powered web apps  
+- ☁️ **Scalable AI Deployment** — deploying AI systems that can handle real users  
+- 🛡 **AI Safety** — building secure, ethical, and reliable AI systems  
 
 ---
 
