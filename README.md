@@ -102,88 +102,92 @@
 
 ---
 
-## About Me
+<div align="center">
 
-Hello, I’m **Arjun Bhul**
+## 👨‍💻 About Me
 
-I have completed my **Bachelor’s degree in Computer Systems Engineering** from **ISMT College (https://ismt.edu.np/)**, and I finished my studies in **February 2026**.
+Hello, I’m **Arjun Bhul** 👋
 
-I’m currently **looking for an internship or junior-level role in AI / Machine Learning**, where I can learn from real-world systems and contribute to meaningful projects.
+I have completed my **🎓 Bachelor’s degree in Computer Systems Engineering** from **🏫 ISMT College (https://ismt.edu.np/)**, and I finished my studies in **📅 February 2026**.
+
+I’m currently **🔎 looking for an internship or junior-level role in AI / Machine Learning**, where I can learn from real-world systems and contribute to meaningful projects.
+
+</div>
 
 ---
 
-### What I’m Working On
+### 🚀 What I’m Working On
 
-I’m exploring **Artificial Intelligence and Machine Learning** with a strong focus on **building practical, real-world intelligent systems** — not just theory.
+I’m exploring **🤖 Artificial Intelligence and Machine Learning** with a strong focus on **building practical, real-world intelligent systems** — not just theory.
 
 My main interests include:
 
-- **Machine Learning & Deep Learning**
-- **Large Language Models (LLMs)**
-- **RAG pipelines and vector databases**
-- **Prompt engineering and evaluation**
-- **Generative AI for useful applications**
+- 🧠 **Machine Learning & Deep Learning**
+- 🤖 **Large Language Models (LLMs)**
+- 📚 **RAG pipelines and vector databases**
+- 📝 **Prompt engineering and evaluation**
+- ✨ **Generative AI for useful applications**
 
 I enjoy understanding how things actually work in practice — from data and models to deployment.
 
 ---
 
-### AI + Full-Stack Experience
+### 🔧 AI + Full-Stack Experience
 
-Alongside AI/ML, I also handle **full-stack development tasks**, especially when building AI-powered applications.
+Alongside AI/ML, I also handle **🌐 full-stack development tasks**, especially when building AI-powered applications.
 
 So far, I have built:
 
-- **AI / ML-based projects** (as mentioned in my repositories)
-- An **AI-driven solution application**
-- A **security system website**
-- Multiple **backend + frontend integrated projects**
+- 🤖 **AI / ML-based projects** (as mentioned in my repositories)
+- 🧩 An **AI-driven solution application**
+- 🔐 A **security system website**
+- 🔗 Multiple **backend + frontend integrated projects**
 
 Because of this, I’m comfortable working across:
 
-- **Backend APIs**
-- **Frontend interfaces**
-- **AI model integration**
-- **Basic deployment workflows**
+- 🛠 **Backend APIs**
+- 🎨 **Frontend interfaces**
+- 🔌 **AI model integration**
+- 🚀 **Basic deployment workflows**
 
 ---
 
-### Current Project (Real Users)
+### 📍 Current Project (Real Users)
 
-Right now, I’m actively working on a **full-stack online futsal booking platform** for **real users** in  
-**Kathmandu, Bhaktapur, and Lalitpur**.
+Right now, I’m actively working on a **⚽ full-stack online futsal booking platform** for **real users** in  
+**📍 Kathmandu, Bhaktapur, and Lalitpur**.
 
 This project is helping me improve:
 
-- **System design**
-- **Performance and scalability**
-- **User-focused development**
-- **Real-world problem solving**
+- 🏗 **System design**
+- ⚡ **Performance and scalability**
+- 👥 **User-focused development**
+- 🧩 **Real-world problem solving**
 
 You can check it here:  
- **[https://bookmyfutsal.vercel.app/]**
+🔗 **[https://bookmyfutsal.vercel.app/]**
 
 ---
 
-### My Focus Going Forward
+### 🎯 My Focus Going Forward
 
-I’m a **passionate learner** who wants to grow as an **AI/ML Engineer with strong full-stack skills**.
+I’m a **🔥 passionate learner** who wants to grow as an **🤖 AI/ML Engineer with strong full-stack skills**.
 
 My goal is simple:
 
-- Build **intelligent systems that solve real problems**
-- Learn from **production-level challenges**
-- Grow through **hands-on experience and collaboration**
+- 🧠 Build **intelligent systems that solve real problems**
+- 🏭 Learn from **production-level challenges**
+- 🤝 Grow through **hands-on experience and collaboration**
 
 I’m actively seeking opportunities where I can **learn, contribute, and improve every day**.
 
 ---
 
-### Tech Stack
+### 💻 Tech Stack
 
 <div align="center">
 <!-- Core AI & ML -->
-<p><b> Core AI & ML Tech</b></p>
+<p><b> 🧠 Core AI & ML Tech</b></p>
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
@@ -201,7 +205,7 @@ I’m actively seeking opportunities where I can **learn, contribute, and improv
 
 <div align="center">
 <!-- Deep Learning & LLMs -->
-<p><b> Deep Learning & LLM Ecosystem</b></p>
+<p><b>🤖 Deep Learning & LLM Ecosystem</b></p>
 <img src="https://img.shields.io/badge/Transformers-%F0%9F%A4%96-yellow"/>
 <img src="https://img.shields.io/badge/LangChain-%2300CCBB.svg?logoColor=white"/>
 <img src="https://img.shields.io/badge/LlamaIndex-%234285F4.svg?logoColor=white"/>
@@ -217,7 +221,7 @@ I’m actively seeking opportunities where I can **learn, contribute, and improv
 </div>
 
 <div align="center">
-<p><b> DevOps & Deployment Tech</b></p>
+<p><b> 🚀 DevOps & Deployment Tech</b></p>
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
@@ -225,7 +229,7 @@ I’m actively seeking opportunities where I can **learn, contribute, and improv
 
 <div align="center">
 <!-- Familiar / Secondary Tech -->
-<p><b> Familiar Tech</b></p>
+<p><b> 🧩 Familiar Tech</b></p>
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
@@ -246,28 +250,30 @@ I’m actively seeking opportunities where I can **learn, contribute, and improv
 
 ---
 
-## What I Do Best
+## 💡 What I Do Best
 
-- Design & train **Machine Learning / Deep Learning models**
-- Build **LLM-powered applications** (Chatbots, AI Agents, RAG Systems)
-- Turn raw data into **actionable intelligence**
-- Develop **AI-driven full-stack applications**
-- Deploy & scale systems on **cloud infrastructure**
-- Automate workflows with **MLOps & DevOps practices**
-
-## Currently Going Deep Into
-
-- **Large Language Models (LLMs)** — architecture, fine-tuning & evaluation
-- **Retrieval-Augmented Generation (RAG) Pipelines** — vector search, embeddings & knowledge grounding
-- **AI Agents & Tool-Using Models** — autonomous workflows & decision systems
-- **Prompt Engineering & Evaluation** — reliability, safety & performance tuning
-- **Full-Stack Development** — building AI-powered web apps (Frontend + Backend integration)
-- **Scalable AI Deployment** — cloud-native, containerized & production-ready systems
-- **AI Safety & Responsible AI** — ethical, secure & trustworthy AI systems
+- 🧠 Design & train **Machine Learning / Deep Learning models**
+- 🤖 Build **LLM-powered applications** (Chatbots, AI Agents, RAG Systems)
+- 📊 Turn raw data into **actionable intelligence**
+- 🌐 Develop **AI-driven full-stack applications**
+- ☁️ Deploy & scale systems on **cloud infrastructure**
+- ⚙️ Automate workflows with **MLOps & DevOps practices**
 
 ---
 
-### Grind
+## 📚 Currently Going Deep Into
+
+- 🤖 **Large Language Models (LLMs)** — architecture, fine-tuning & evaluation
+- 📚 **Retrieval-Augmented Generation (RAG) Pipelines** — vector search, embeddings & knowledge grounding
+- 🤝 **AI Agents & Tool-Using Models** — autonomous workflows & decision systems
+- 📝 **Prompt Engineering & Evaluation** — reliability, safety & performance tuning
+- 🌐 **Full-Stack Development** — building AI-powered web apps (Frontend + Backend integration)
+- ☁️ **Scalable AI Deployment** — cloud-native, containerized & production-ready systems
+- 🛡 **AI Safety & Responsible AI** — ethical, secure & trustworthy AI systems
+
+---
+
+### 🔥 Grind
 
 <p align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg1MXl5NWp1YWEzdzg0eXRzNndrOHRsb295bTM3eGRkcTlmODZlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="500px" alt="AI Engineer Coding Animation"/>
@@ -279,18 +285,17 @@ I’m actively seeking opportunities where I can **learn, contribute, and improv
 
 ---
 
-### My GitHub Contributions
+### 📊 My GitHub Contributions
 
 <div align="center">
 
-<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar-jun-fs9&theme=react-dark&area=true&hide_border=false&stroke=05F0FF&custom_title=Ar-jun-fs9's+Contribution+Graph" width="900"/>
 
 </div>
 
 ---
 
-### Connect With Me
+### 🤝 Connect With Me
 
 <p align="center">
 <a href="https://github.com/Ar-jun-fs9"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
