@@ -165,7 +165,7 @@ This project is helping me improve:
 - 🧩 **Real-world problem solving**
 
 You can check it here:  
-🔗 **[https://bookmyfutsal.vercel.app/]**
+🔗 **https://bookmyfutsal.vercel.app/**
 
 ---
 
