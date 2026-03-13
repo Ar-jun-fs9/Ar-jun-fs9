@@ -152,7 +152,7 @@ Because of this, I’m comfortable working across:
 
 ---
 
-### 📍 Current Project (Real Users)
+### 📍 Current Project
 
 I'm currently developing a **⚽ full-stack futsal booking site** as a hands-on practice project  
 to sharpen my full-stack development skills also.
