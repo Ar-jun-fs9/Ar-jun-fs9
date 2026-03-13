@@ -154,15 +154,15 @@ Because of this, I’m comfortable working across:
 
 ### 📍 Current Project (Real Users)
 
-Right now, I’m actively working on a **⚽ full-stack online futsal booking platform** for **real users** in  
-**📍 Kathmandu, Bhaktapur, and Lalitpur**.
+I'm currently developing a **⚽ full-stack futsal booking site** as a hands-on practice project  
+to sharpen my full-stack development skills also.
 
-This project is helping me improve:
+This project is helping me grow in:
 
 - 🏗 **System design**
 - ⚡ **Performance and scalability**
 - 👥 **User-focused development**
-- 🧩 **Real-world problem solving**
+- 🧩 **Real-world problem solving***
 
 You can check it here:  
 🔗 **https://bookmyfutsal.vercel.app/**
