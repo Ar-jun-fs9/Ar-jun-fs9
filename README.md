@@ -68,18 +68,18 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70"/>
       <br>Docker
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <img src="https://icons.veryicon.com/png/o/education-technology/artificial-intelligence-algorithm/xgboost.png" width="90"/>
       <br>XGBoost
-    </td>
-    <td align="center">
+    </td> -->
+    <!-- <td align="center">
       <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_black_text.svg" width="90"/>
       <br>LightGBM
-    </td>
-    <td align="center">
+    </td> -->
+    <!-- <td align="center">
       <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" width="90"/>
       <br>OpenCV
-    </td>
+    </td> -->
     <td align="center">
       <a href="https://arjunbhul.com.np/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="90"/>
@@ -193,9 +193,9 @@ I’m actively seeking opportunities where I can **learn, contribute, and improv
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white"/>
-<img src="https://img.shields.io/badge/LightGBM-005500?logo=lightgbm&logoColor=white"/>
-<img src="https://img.shields.io/badge/CatBoost-FFCC00?logoColor=black"/>
+<!-- <img src="https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/LightGBM-005500?logo=lightgbm&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/CatBoost-FFCC00?logoColor=black"/> -->
 <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white"/>
@@ -211,11 +211,11 @@ I’m actively seeking opportunities where I can **learn, contribute, and improv
 <img src="https://img.shields.io/badge/LlamaIndex-%234285F4.svg?logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLTK-154734?logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-0055FF?logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-20232A?logoColor=white"/>
-<img src="https://img.shields.io/badge/Weaviate-2B7CF7?logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/NLTK-154734?logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Pinecone-0055FF?logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/FAISS-20232A?logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Weaviate-2B7CF7?logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Chroma-9932CC?logoColor=white"/>
 
 </div>
@@ -232,7 +232,7 @@ I’m actively seeking opportunities where I can **learn, contribute, and improv
 <p><b> 🧩 Familiar Tech</b></p>
 <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
@@ -305,4 +305,4 @@ I’m actively seeking opportunities where I can **learn, contribute, and improv
 
 ---
 
-<h3 align="center"> “AI is not the future, it’s the present — and I’m building it.” </h3>
+<h3 align="center"> “ ⚡AI is not the future, it’s the present — and I’m building it. ⚡ ” </h3>
