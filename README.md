@@ -45,7 +45,8 @@
       <br>Hugging Face
     </td>
   </tr>
-
+</table>
+<table align="center">
   <!-- Databases, ML Enhancements, DevOps -->
   <tr>
     <td align="center">
