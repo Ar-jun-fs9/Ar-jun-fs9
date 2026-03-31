@@ -231,8 +231,8 @@ I’m actively seeking opportunities where I can **learn, contribute, and improv
 <div align="center">
 <!-- Familiar / Secondary Tech -->
 <p><b> 🧩 Familiar Tech</b></p>
-<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
@@ -244,9 +244,9 @@ I’m actively seeking opportunities where I can **learn, contribute, and improv
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/> -->
 </div>
 
 ---
