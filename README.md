@@ -1,107 +1,3 @@
-<!-- ============================= PROFILE HEADER ============================= -->
-
-<!-- Animated Welcome Sticker (Centered) -->
-<p align="center">
-  <img src="https://media1.tenor.com/m/-cQZWvLAvgMAAAAC/hi-hello-there.gif" width="350" alt="Waving Hand Welcome"/>
-</p>
-<!-- Pure AI/ML Visual in 1 horizontal row -->
-<table align="center">
-  <!-- Core AI/ML -->
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>
-      <br>Python
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="70"/>
-      <br>NumPy
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="70"/>
-      <br>Pandas
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="70"/>
-      <br>Matplotlib
-    </td>
-    <td align="center">
-      <img src="https://logo.svgcdn.com/logos/seaborn-icon.svg" width="70"/>
-      <br>Seaborn
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="70"/>
-      <br>Scikit-learn
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="70"/>
-      <br>PyTorch
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg" width="70"/>
-      <br>Jupyter
-    </td>
-    <td align="center">
-      <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="70"/>
-      <br>Hugging Face
-    </td>
-  </tr>
-</table>
-<table align="center">
-  <!-- Databases, ML Enhancements, DevOps -->
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70"/>
-      <br>Git
-    </td>
-    <td align="center">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="70"/>
-      <br>GitHub
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="70"/>
-      <br>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="70"/>
-      <br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70"/>
-      <br>Docker
-    </td>
-    <!-- <td align="center">
-      <img src="https://icons.veryicon.com/png/o/education-technology/artificial-intelligence-algorithm/xgboost.png" width="90"/>
-      <br>XGBoost
-    </td> -->
-    <!-- <td align="center">
-      <img src="https://raw.githubusercontent.com/microsoft/LightGBM/master/docs/logo/LightGBM_logo_black_text.svg" width="90"/>
-      <br>LightGBM
-    </td> -->
-    <!-- <td align="center">
-      <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" width="90"/>
-      <br>OpenCV
-    </td> -->
-    <td align="center">
-      <a href="https://arjunbhul.com.np/" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="90"/>
-        <br>Portfolio
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Two GIFs Side by Side -->
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="380" style="display:inline-block; margin-right:20px;"/>
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="380" style="display:inline-block; margin-left:20px;"/>
-</p>
-
-<!-- Animated Typing Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=500&color=05F0FF&center=true&vCenter=true&multiline=true&width=900&lines=Welcome+to+my+Digital+Universe+🌌;Where+Code+Breathes+and+Machines+Learn+🧠;Let's+Build+Tomorrow's+Intelligence+Today+🚀&v=1">
-</p>
-
----
 
 <div align="center">
 
@@ -109,201 +5,117 @@
 
 Hello, I’m **Arjun Bhul** 👋
 
-I have completed my **🎓 Bachelor’s degree in Computer Systems Engineering** from **🏫 ISMT College (https://ismt.edu.np/)**, and I finished my studies in **📅 February 2026**.
-
-I’m currently **🔎 looking for an internship or junior-level role in AI / Machine Learning**, where I can learn from real-world systems and contribute to meaningful projects.
 
 </div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>
+      <br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="70"/>
+      <br>Django
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="70"/>
+      <br>FastAPI
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="70"/>
+      <br>Django REST Framework
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="70"/>
+      <br>PostgreSQL
+    </td>
+     <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="70"/>
+      <br>Redis
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70"/>
+      <br>Docker
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70"/>
+      <br>Git
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70"/>
+      <br>GitHub Actions
+    </td>
+  </tr>
+</table>
 
 ---
-
-### 🚀 What I’m Working On
-
-I’m exploring **🤖 Artificial Intelligence and Machine Learning** with a strong focus on **building practical, real-world intelligent systems** — not just theory.
-
-My main interests include:
-
-- 🧠 **Machine Learning & Deep Learning**
-- 🤖 **Large Language Models (LLMs)**
-- 📚 **RAG pipelines and vector databases**
-- 📝 **Prompt engineering and evaluation**
-- ✨ **Generative AI for useful applications**
-
-I enjoy understanding how things actually work in practice — from data and models to deployment.
-
----
-
-### 🔧 AI + Full-Stack Experience
-
-Alongside AI/ML, I also handle **🌐 full-stack development tasks**, especially when building AI-powered applications.
-
-So far, I have built:
-
-- 🤖 **AI / ML-based projects** (as mentioned in my repositories)
-- 🧩 An **AI-driven solution application**
-- 🔐 A **security system website**
-- 🔗 Multiple **backend + frontend integrated projects**
-
-Because of this, I’m comfortable working across:
-
-- 🛠 **Backend APIs**
-- 🎨 **Frontend interfaces**
-- 🔌 **AI model integration**
-- 🚀 **Basic deployment workflows**
-
----
-
-### 📍 Current Project
-
-I'm currently developing a **⚽ full-stack futsal booking site** as a hands-on practice project  
-to sharpen my full-stack development skills also.
-
-This project is helping me grow in:
-
-- 🏗 **System design**
-- ⚡ **Performance and scalability**
-- 👥 **User-focused development**
-- 🧩 **Real-world problem solving***
-
-You can check it here:  
-🔗 **https://bookmyfutsal.vercel.app/**
-
----
-
-### 🎯 My Focus Going Forward
-
-I’m a **🔥 passionate learner** who wants to grow as an **🤖 AI/ML Engineer with strong full-stack skills**.
-
-My goal is simple:
-
-- 🧠 Build **intelligent systems that solve real problems**
-- 🏭 Learn from **production-level challenges**
-- 🤝 Grow through **hands-on experience and collaboration**
-
-I’m actively seeking opportunities where I can **learn, contribute, and improve every day**.
-
----
-
-### 💻 Tech Stack
 
 <div align="center">
-<!-- Core AI & ML -->
-<p><b> 🧠 Core AI & ML Tech</b></p>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/XGBoost-FF6600?logo=xgboost&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/LightGBM-005500?logo=lightgbm&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/CatBoost-FFCC00?logoColor=black"/> -->
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white"/>
-</div>
 
-<div align="center">
-<!-- Deep Learning & LLMs -->
-<p><b>🤖 Deep Learning & LLM Ecosystem</b></p>
-<img src="https://img.shields.io/badge/Transformers-%F0%9F%A4%96-yellow"/>
-<img src="https://img.shields.io/badge/LangChain-%2300CCBB.svg?logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-%234285F4.svg?logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black"/>
-<!-- <img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/NLTK-154734?logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Pinecone-0055FF?logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/FAISS-20232A?logoColor=white"/> -->
-<!-- <img src="https://img.shields.io/badge/Weaviate-2B7CF7?logoColor=white"/> -->
-<img src="https://img.shields.io/badge/Chroma-9932CC?logoColor=white"/>
+## 🛠 Tech Stack
 
-</div>
+### Backend (Primary)
 
-<div align="center">
-<p><b> 🚀 DevOps & Deployment Tech</b></p>
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
-</div>
-
-<div align="center">
-<!-- Familiar / Secondary Tech -->
-<p><b> 🧩 Familiar Tech</b></p>
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"/> -->
-</div>
-
----
-
-## 💡 What I Do Best
-
-- 🧠 Design & train **Machine Learning / Deep Learning models**
-- 🤖 Build **LLM-powered applications** (Chatbots, AI Agents, RAG Systems)
-- 📊 Turn raw data into **actionable intelligence**
-- 🌐 Develop **AI-driven full-stack applications**
-- ☁️ Deploy & scale systems on **cloud infrastructure**
-- ⚙️ Automate workflows with **MLOps & DevOps practices**
-
----
-
-## 📚 Currently Going Deep Into
-
-- 🤖 **Large Language Models (LLMs)** — how they work, how to improve them, and how to test them  
-- 📚 **RAG Pipelines** — retrieving the right data and generating accurate answers  
-- 🤝 **AI Agents** — AI systems that use tools and complete tasks automatically  
-- 📝 **Prompt Engineering** — writing better prompts and improving output quality  
-- 🌐 **Full-Stack Development** — building complete AI-powered web apps  
-- ☁️ **Scalable AI Deployment** — deploying AI systems that can handle real users  
-- 🛡 **AI Safety** — building secure, ethical, and reliable AI systems  
-
----
-
-### 🔥 Grind
-
-<p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXg1MXl5NWp1YWEzdzg0eXRzNndrOHRsb295bTM3eGRkcTlmODZlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="500px" alt="AI Engineer Coding Animation"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFD1&center=true&vCenter=true&width=600&lines=Training+Neural+Networks+🧠;Designing+LLMs+🤖;Deploying+on+Cloud+☁️;Automating+Intelligence+🌐;Creating+Tomorrow's+AI+Today!"/>
+### Frontend (Familiar)
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"/>
 </p>
-
----
-
-### 📊 My GitHub Contributions
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar-jun-fs9&theme=react-dark&area=true&hide_border=false&stroke=05F0FF&custom_title=Ar-jun-fs9's+Contribution+Graph" width="900"/>
 
 </div>
-
+ 
 ---
-
-### 🤝 Connect With Me
-
-<p align="center">
-<a href="https://github.com/Ar-jun-fs9"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/arjun-bhul-37656b398?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BJUmmPKdQRRWvlDK%2FtAN6VQ%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-<a href="https://ar-jun-fs9.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/></a>
+ 
+## 💼 What I Build
+ 
+- **REST APIs** — clean, documented, and ready-to-use APIs with Django REST Framework or FastAPI
+- **Full-stack applications** — ython backends connected to React or Next.js frontends
+- **AI-integrated systems** — applications that use LLMs, RAG pipelines, or ML models through clean API interfaces
+- **Database-driven systems** — PostgreSQL-backed apps with proper schema design, migrations, and query optimization
+- **Deployed systems** — containerized with Docker deployed on cloud ( Vercel, railway and render )
+ 
+---
+ 
+## 📌 Current Focus
+ 
+Right now I'm deepening my skills in:
+ 
+- **Django + DRF** — building production-grade REST APIs with authentication, permissions, and testing
+- **FastAPI** — high-performance async APIs, especially for AI/ML model serving
+- **System design** — learning to design scalable, maintainable backend architectures
+- **Next.js** — building full-stack projects end-to-end
+- **LLM integration** — RAG pipelines and AI agents plugged into real backend systems
+ 
+---
+ 
+## 📊 GitHub Activity
+ 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar-jun-fs9&theme=github-compact&area=true&hide_border=true&custom_title=Contribution+Graph" width="860"/>
+</div>
+ 
+---
+ 
+## 🤝 Connect
+ 
+<p>
+  <a href="https://github.com/Ar-jun-fs9"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arjun-bhul-37656b398"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+  <a href="https://arjunbhul.com.np/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/></a>
 </p>
-
+ 
 ---
 
-<h3 align="center"> “ ⚡AI is not the future, it’s the present — and I’m building it. ⚡ ” </h3>
