@@ -3,7 +3,9 @@
 
 ## 👨‍💻 About Me
 
-Hello, I’m **Arjun Bhul** 👋
+Hi, I’m **Arjun Bhul** 👋  
+I build **backend APIs**, **full-stack apps**, and **AI-powered systems**. I love learning new tech and contributing to open source.  
+Right now, I’m **learning FastAPI**, building **projects with Django and FastAPI**, and exploring **AI integrations** in real applications.
 
 
 </div>
