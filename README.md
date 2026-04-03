@@ -1,51 +1,61 @@
 
+
 <div align="center">
 
-## 👨‍💻 About Me
+##  👨‍💻 About Me
 
-Hi, I’m **Arjun Bhul** 👋  
-I build **backend APIs**, **full-stack apps**, and **AI-powered systems**. I love learning new tech and contributing to open source.  
-Right now, I’m **learning FastAPI**, building **projects with Django and FastAPI**, and exploring **AI integrations** in real applications.
+Hi, I’m **Arjun Bhul**   
 
+I’m a **Python developer focused on backend development**. I build APIs and web applications using frameworks like Django and FastAPI, and I can also manage and develop full-stack applications using Next.js. I’m continuously learning new technologies and exploring AI integration in real-world projects. 
+
+Right now, I’m:  
+  **Learning FastAPI**  
+ **Building projects with Django and FastAPI**  
+  **Exploring AI integrations in real applications**  
 
 </div>
+
+<br>
+
+
+
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/>
-      <br>Python
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70"/><br>
+      Python
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="70"/>
-      <br>Django
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="70"/><br>
+      Django
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="70"/>
-      <br>FastAPI
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="70"/><br>
+      FastAPI
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="70"/>
-      <br>Django REST Framework
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="70"/><br>
+      Django REST Framework
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="70"/>
-      <br>PostgreSQL
-    </td>
-     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="70"/>
-      <br>Redis
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="70"/><br>
+      PostgreSQL
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70"/>
-      <br>Docker
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="70"/><br>
+      Redis
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70"/>
-      <br>Git
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="70"/><br>
+      Docker
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70"/>
-      <br>GitHub Actions
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="70"/><br>
+      Git
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="70"/><br>
+      GitHub Actions
     </td>
   </tr>
 </table>
@@ -54,7 +64,7 @@ Right now, I’m **learning FastAPI**, building **projects with Django and FastA
 
 <div align="center">
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Backend (Primary)
 
@@ -81,7 +91,7 @@ Right now, I’m **learning FastAPI**, building **projects with Django and FastA
  
 ---
  
-## 💼 What I Build
+##  What I Build
  
 - **REST APIs** — clean, documented, and ready-to-use APIs with Django REST Framework or FastAPI
 - **Full-stack applications** — ython backends connected to React or Next.js frontends
@@ -91,7 +101,7 @@ Right now, I’m **learning FastAPI**, building **projects with Django and FastA
  
 ---
  
-## 📌 Current Focus
+##  Current Focus
  
 Right now I'm deepening my skills in:
  
@@ -103,7 +113,7 @@ Right now I'm deepening my skills in:
  
 ---
  
-## 📊 GitHub Activity
+##  GitHub Activity
  
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ar-jun-fs9&theme=github-compact&area=true&hide_border=true&custom_title=Contribution+Graph" width="860"/>
@@ -111,7 +121,7 @@ Right now I'm deepening my skills in:
  
 ---
  
-## 🤝 Connect
+##  Connect
  
 <p>
   <a href="https://github.com/Ar-jun-fs9"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
