@@ -122,6 +122,8 @@ Right now I'm deepening my skills in:
 ---
  
 ##  Connect
+
+<div align = "center">
  
 <p>
   <a href="https://github.com/Ar-jun-fs9"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
@@ -129,5 +131,6 @@ Right now I'm deepening my skills in:
   <a href="https://arjunbhul.com.np/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/></a>
 </p>
  
+</div>
 ---
 
