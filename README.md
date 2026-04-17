@@ -94,7 +94,7 @@ Right now, I’m:
 ##  What I Build
  
 - **REST APIs** — clean, documented, and ready-to-use APIs with Django REST Framework or FastAPI
-- **Full-stack applications** — ython backends connected to React or Next.js frontends
+- **Full-stack applications** — python backends connected to React or Next.js frontends
 - **AI-integrated systems** — applications that use LLMs, RAG pipelines, or ML models through clean API interfaces
 - **Database-driven systems** — PostgreSQL-backed apps with proper schema design, migrations, and query optimization
 - **Deployed systems** — containerized with Docker deployed on cloud ( Vercel, railway and render )
