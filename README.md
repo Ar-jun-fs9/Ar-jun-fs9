@@ -132,5 +132,4 @@ Right now I'm deepening my skills in:
 </p>
  
 </div>
----
 
